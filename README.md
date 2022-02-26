@@ -5,3 +5,6 @@ Step 1:
 pip install pycocotools
 
 Step2:
+<hr>
+## To do: 
+Add arguments to the script
